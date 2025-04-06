@@ -1,0 +1,20 @@
+{
+    "name": "sadad-gateway",
+    "version": "1.0.0",
+    "description": "درگاه پرداخت سداد برای Node.js با پشتیبانی TypeScript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc",
+      "prepare": "npm run build"
+    },
+    "keywords": ["sadad", "gateway", "payment", "typescript", "nodejs"],
+    "author": "AhmadMohammadi",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.0"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0"
+    }
+  }
