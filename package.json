@@ -5,16 +5,23 @@
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
-      "build": "tsc",
-      "prepare": "npm run build"
+        "build": "tsc",
+        "prepare": "npm run build"
     },
-    "keywords": ["sadad", "gateway", "payment", "typescript", "nodejs"],
+    "keywords": [
+        "sadad",
+        "gateway",
+        "payment",
+        "typescript",
+        "nodejs"
+    ],
     "author": "AhmadMohammadi",
     "license": "MIT",
     "dependencies": {
-      "axios": "^1.6.0"
+        "axios": "^1.6.0"
     },
     "devDependencies": {
-      "typescript": "^5.0.0"
+        "@types/node": "^22.14.0",
+        "typescript": "^5.8.3"
     }
-  }
+}
