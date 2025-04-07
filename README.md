@@ -1,6 +1,6 @@
 # Sadad Gateway
 
-A lightweight Node.js library for integrating with the **Sadad (Saman Kish)** payment gateway, fully written in TypeScript.
+A lightweight Node.js library for integrating with the **Sadad (Sadad Gateway)** payment gateway, fully written in TypeScript.
 
 > ⚠️ This package was developed based on the official Sadad documentation for educational and integration purposes. If you encounter any issues or bugs, please report them.
 
@@ -92,4 +92,4 @@ We appreciate your feedback and contributions! 💙
 
 ---
 
-> ⚠️ **Disclaimer:** This is an **unofficial** developer tool and is not affiliated with or endorsed by Saman Kish Electronic Payment Company.
+> ⚠️ **Disclaimer:** This is an **unofficial** developer tool and is not affiliated with or endorsed by Sadad Gateway Payment Company.
