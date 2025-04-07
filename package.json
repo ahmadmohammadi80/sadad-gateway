@@ -1,6 +1,6 @@
 {
     "name": "sadad-gateway",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "درگاه پرداخت سداد برای Node.js با پشتیبانی TypeScript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
